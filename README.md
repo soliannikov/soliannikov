@@ -1,4 +1,14 @@
-### 🛠 My Core Stack
+# Hi! 👋 I'm Vladyslav Soliannikov
+
+I'm a **QA / Test Automation Engineer** with over 4 years of experience in software quality assurance. My focus is on test automation, building robust frameworks, and security testing. 
+
+I hold a Master's degree in Computer Science and have a background in cybersecurity (SoC Analyst L1). I do more than just write tests — I build QA processes, analyze vulnerabilities, and work with complex architectures.
+
+### My CV:
+- **QA** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
+- **CyberSecurity** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
+
+### Technical Stack
 
 #### 🟢 Quality Assurance & Automation
 
@@ -111,3 +121,12 @@
   <img src="https://img.shields.io/badge/DORA-0052CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NIS2-0052CC?style=for-the-badge&logoColor=white" />
 </p>
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=soliannikov&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 📫 How to reach me:
+- **LinkedIn:** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
+
