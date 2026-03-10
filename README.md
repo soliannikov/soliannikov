@@ -3,8 +3,8 @@
 **QA & Security Engineer** with 4+ years of experience in API, web, and automated testing, actively transitioning into a dedicated Information Security role. Possesses a solid foundation in network protocols, log analysis (ELK), and access control (RBAC), backed by previous L1 SOC and IT Support experience. Proven ability to integrate vulnerability checks (OWASP Top 10, ZAP) into the QA lifecycle. Eager to leverage a meticulous testing mindset and scripting skills to support secure SDLC practices and proactive threat detection.
 
 ### My CV:
-- **QA** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
-- **CyberSecurity** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
+- **QA** [Link](https://github.com/soliannikov/CV/blob/main/QA/CV%20Soliannikov%20Vladyslav.pdf)
+- **CyberSecurity** [Link] (https://github.com/soliannikov/CV/blob/main/Security/CV%20Soliannikov%20Vladyslav.pdf)
 
 ### Full Technical Stack
 
