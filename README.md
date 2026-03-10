@@ -1,14 +1,12 @@
-# Hi! 👋 I'm Vladyslav Soliannikov
+# Hi! 👋 I'm Vladyslav
 
-I'm a **QA / Test Automation Engineer** with over 4 years of experience in software quality assurance. My focus is on test automation, building robust frameworks, and security testing. 
-
-I hold a Master's degree in Computer Science and have a background in cybersecurity (SoC Analyst L1). I do more than just write tests — I build QA processes, analyze vulnerabilities, and work with complex architectures.
+**QA & Security Engineer** with 4+ years of experience in API, web, and automated testing, actively transitioning into a dedicated Information Security role. Possesses a solid foundation in network protocols, log analysis (ELK), and access control (RBAC), backed by previous L1 SOC and IT Support experience. Proven ability to integrate vulnerability checks (OWASP Top 10, ZAP) into the QA lifecycle. Eager to leverage a meticulous testing mindset and scripting skills to support secure SDLC practices and proactive threat detection.
 
 ### My CV:
 - **QA** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
 - **CyberSecurity** [linkedin.com/in/soliannikov](https://linkedin.com/in/soliannikov)
 
-### Technical Stack
+### Full Technical Stack
 
 #### 🟢 Quality Assurance & Automation
 
