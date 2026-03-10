@@ -4,7 +4,7 @@
 
 ### My CV:
 - **QA** [Link](https://github.com/soliannikov/CV/blob/main/QA/CV%20Soliannikov%20Vladyslav.pdf)
-- **CyberSecurity** [Link] (https://github.com/soliannikov/CV/blob/main/Security/CV%20Soliannikov%20Vladyslav.pdf)
+- **CyberSecurity** [Link](https://github.com/soliannikov/CV/blob/main/Security/CV%20Soliannikov%20Vladyslav.pdf)
 
 ### Full Technical Stack
 
